@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EjerciciosTema3</string>
+    <string name="textoIdioma">Cambiar el idioma</string>
+    <string name="idiomaCas">Castellano</string>
+    <string name="idiomaEus">Euskera</string>
+    <string name="botonTexto">Cambiar texto</string>
+    <string name="textoejemplo" translatable="false">....</string>
+</resources>

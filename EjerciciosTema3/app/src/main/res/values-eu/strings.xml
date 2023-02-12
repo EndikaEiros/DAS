@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EjerciciosTema3</string>
+    <string name="textoIdioma">Aldatu hizkuntza</string>
+    <string name="idiomaCas">Gaztelania</string>
+    <string name="idiomaEus">Euskara</string>
+    <string name="botonTexto">Aldatu testua</string>
+</resources>
