@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TO DO List</string>
+    <string name="btn_done">Hecho</string>
+    <string name="btn_newTask">Añadir nueva tarea</string>
+    <string name="TextNewTask">Introduce la nueva tarea:</string>
+    <string name="TaskDescription">Descripción de la tarea</string>
+</resources>
